@@ -40,7 +40,7 @@ Ahora sólo hay que hacer caso a la pantalla de información del grafo, decidir 
 
 ## Archivos de grafo con .csv
 
-Los archivos `.csv` son los más accesibles a la hora de incorporar datos de grafo a **Gephi**. 
+Los archivos `.csv` son los más accesibles a la hora de incorporar datos de grafo a **Gephi**.
 
 Podemos utilizarlos de dos maneras:
 
@@ -50,7 +50,7 @@ Podemos utilizarlos de dos maneras:
 
 * Importando el archivo desde laboratorio de datos. En este caso podemos generar dos tipos de .csv:
   * Tabla de nodos: Una lista con los nodos del grafo con los siguientes campos: Nombre, Id, Label. Son necesarios _Nombre_ e _Id_. El campo Id servirá de identificador a efectos de **Gephi**. 
-  * Tabla de aristas: Una lista de dos campos; Source y Target_. _Cómo su nombre indica en la columna _Source _ incluiremos el nodo de origen, y en _Target_ el nodo destino.
+  * Tabla de aristas: Una lista de dos campos; _Source y Target. Cómo su nombre indica en la columna Source _ incluiremos el nodo de origen, y en _Target_ el nodo destino.
 
 > **Tip:** La mejor manera es importar primero las aristas. De esta manera se genera automáticamente la lista de nodos. De esta manera con sólo subir un archivo ya dispondremos de una archivo de grafo para analizar. Posteriormente si es necesario, podemos subir la tabla de nodos con atributos si nos es necesario para analizar el grafo.
 
