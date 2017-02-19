@@ -12,5 +12,5 @@ Buscar las relaciones entre los elementos viene a ser una tarea casi automática
 
 La tarea más habitual que realizo es el análisis de conversaciones que se producen en Twitter. La **monitorización** es un servicio demandado, y tener un extra de información siempre viene bien para hacer una planificación estratégica. No es lo mismo tener una serie de volumétricos, que conocer qué usuarios han sido relevantes, cuales han sido clave en la difusin de la información o qué grupo ha utilizado un determinado hashtag o compartido un enlace.
 
-Más allá de las obligaciones diarias, **Gephi** también me ha permitido realizar investigaciones y probar ideas. No sólo son conversaciones de Twitter lo que analizo. Podemos utilizarlo para analizar textos, conocer mejor un entramado empresarial o mejorar el SEO de una web con los datos de analytics. Incluso para 
+Más allá de las obligaciones diarias, **Gephi** también me ha permitido realizar investigaciones y probar ideas. No sólo son conversaciones de Twitter lo que analizo. Podemos utilizarlo para analizar textos, conocer mejor un entramado empresarial o mejorar el SEO de una web con los datos de analytics.
 
