@@ -32,9 +32,27 @@ Según la propia [página de **Gephi**](https://gephi.org/users/supported-graph-
 * [Netdraw VNA](https://gephi.org/users/supported-graph-formats/netdraw-vna-format)
 * [Spreadsheet](https://gephi.org/users/supported-graph-formats/spreadsheet/)
 
-Para trabajar con un archivo de grafo de estos formatos sólo hay que ir a `Archivo > Abrir...` , y listo. 
+Para trabajar con un archivo de grafo de estos formatos sólo hay que ir a `Archivo > Abrir...` , y listo.
 
 Ahora sólo hay que hacer caso a la pantalla de información del grafo, decidir si es dirigido o no, si lo queremos en un espacio de trabajo nuevo, o si lo queremos añadir al grafo en el que estemos trabajando.
 
+![](/assets/Captura de pantalla 2017-02-19 a las 22.57.59.png)
 
+## Archivos de grafo con .csv
+
+Los archivos `.csv` son los más accesibles a la hora de incorporar datos de grafo a **Gephi**. 
+
+Podemos utilizarlos de dos maneras:
+
+* Abriendo el archivo desde menú `Archivo > Abrir...` La estructura de estos archivos es muy simple. Sólo hay que colocar en la primera columna el nodo emisor, y en las columnas siguientes los nodos a los que está enlazando. 
+
+![](/assets/Captura de pantalla 2017-02-19 a las 23.07.47.png)
+
+* Importando el archivo desde laboratorio de datos. En este caso podemos generar dos tipos de .csv:
+  * Tabla de nodos: Una lista con los nodos del grafo con los siguientes campos: Nombre, Id, Label. Son necesarios _Nombre_ e _Id_. El campo Id servirá de identificador a efectos de **Gephi**. 
+  * Tabla de aristas: Una lista de dos campos; Source y Target_. _Cómo su nombre indica en la columna _Source _ incluiremos el nodo de origen, y en _Target_ el nodo destino.
+
+> **Tip:** La mejor manera es importar primero las aristas. De esta manera se genera automáticamente la lista de nodos. De esta manera con sólo subir un archivo ya dispondremos de una archivo de grafo para analizar. Posteriormente si es necesario, podemos subir la tabla de nodos con atributos si nos es necesario para analizar el grafo.
+
+![](/assets/Captura de pantalla 2017-02-19 a las 23.12.33.png)
 
