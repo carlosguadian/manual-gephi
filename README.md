@@ -14,3 +14,5 @@ La tarea más habitual que realizo es el análisis de conversaciones que se prod
 
 Más allá de las obligaciones diarias, **Gephi** también me ha permitido realizar investigaciones y probar ideas. No sólo son conversaciones de Twitter lo que analizo. Podemos utilizarlo para analizar textos, conocer mejor un entramado empresarial o mejorar el SEO de una web con los datos de analytics.
 
+Hay muchas herramientas para realizar análisis de redes. [Herramientas de todo tipo y para todos los usos](http://www.k-government.com/2016/06/28/100-herramientas-analisis-redes-sna-ars/).
+
