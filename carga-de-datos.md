@@ -52,7 +52,7 @@ Podemos utilizarlos de dos maneras:
   * Tabla de nodos: Una lista con los nodos del grafo con los siguientes campos: Nombre, Id, Label. Son necesarios _Nombre_ e _Id_. El campo Id servirá de identificador a efectos de **Gephi**. 
   * Tabla de aristas: Una lista de dos campos; _Source y Target. Cómo su nombre indica en la columna Source _ incluiremos el nodo de origen, y en _Target_ el nodo destino.
 
-> **Tip:** La mejor manera es importar primero las aristas. De esta manera se genera automáticamente la lista de nodos. De esta manera con sólo subir un archivo ya dispondremos de una archivo de grafo para analizar. Posteriormente si es necesario, podemos subir la tabla de nodos con atributos si nos es necesario para analizar el grafo.
+> **Tip:** La mejor manera es importar primero las aristas. De esta manera se genera automáticamente la lista de nodos. Así con sólo subir un archivo, ya dispondremos de un grafo para analizar. Posteriormente, si es necesario, podemos subir la tabla de nodos con atributos si queremos incorporar algún dato extra al análisis.
 
 ![](/assets/Captura de pantalla 2017-02-19 a las 23.12.33.png)
 
